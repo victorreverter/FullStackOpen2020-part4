@@ -2,8 +2,8 @@ POST http://localhost:3003/api/blogs
 Content-Type: application/json
 
 {
-    "title": "MyBlog",
-    "author": "Cucurella",
-    "url": "http://marca.com",
-    "likes": 34
+    "title": "MyBloguito",
+    "author": "Steiner",
+    "url": "http://elpais.com",
+    "likes": 88
 }
